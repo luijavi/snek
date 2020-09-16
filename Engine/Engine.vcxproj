@@ -158,6 +158,7 @@
   <ItemGroup>
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="DXErr.cpp" />
+    <ClCompile Include="FrameTimer.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="Goal.cpp" />
     <ClCompile Include="Graphics.cpp" />
